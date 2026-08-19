@@ -14,6 +14,6 @@ else:
     elif(user=="water" or comp=="gun"):
         print("You Win!")
     elif(user=="gun" or comp=="snake"):
-        print("You Win!")
+            print("You Win!")
     else:
         print("Computer Win!")
